@@ -23,5 +23,3 @@ Inside the port ftp server 2121 I was able to get the id_rsa file from .ssh dir.
 Downloaded the file to my local machine, and I used the command `ssh -i id_rsa ceil@<SERVER_IP>` that way I was able to connect via ssh into the server.
 
 The user ceil as home dir which had a flag dir containing the flag.txt file, just get the content of the file and submited it successfuly.
-
-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
