@@ -1,6 +1,4 @@
-# Skill assessments
-
-# Lab 1 - Medium
+# Lab 2 - Medium
 
 ## Summary
 

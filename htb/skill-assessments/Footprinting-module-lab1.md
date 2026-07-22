@@ -1,5 +1,3 @@
-# Skill assessments
-
 # Lab 1 - Easy
 
 ## Summary
